@@ -1,0 +1,1 @@
+REDDY AI is a smart, voice-activated personal assistant built with artificial intelligence to perform tasks, answer queries, automate workflows, and interact with users through natural language. Inspired by Iron Man's Jarvis, this project brings contextual awareness and productivity tools together in one intelligent assistant.
